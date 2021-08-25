@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 const App = () => (
   <div>
-    <h1>My React and TypeScript App!</h1>
+    My React and TypeScript App!
   </div>
 );
 
