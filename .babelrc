@@ -10,6 +10,12 @@
       {
         "regenerator": true
       }
+    ],
+    [
+      "babel-plugin-react-css-modules", {
+        "webpackHotModuleReloading": true,
+        "autoResolveMultipleImports": true
+      }
     ]
   ]
 }
